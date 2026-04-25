@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi, I'm Naitik Garg 👋
+🎓 B.Tech Computer Science Student (2024–2028)
+💻 Aspiring Software Engineer
+🚀 Passionate about Problem Solving, Web Development & Building Real-World Projects
 
-<!--
-**Naitik868/Naitik868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Skills
+ 💻 Languages: C, Python, JavaScript
+ 🌐 Web: HTML, CSS, Basic Web Development
+ 🧠 Core: Data Structures & Problem Solving
+ 🤝 Soft Skills: Communication, Leadership, Adaptability
 
-Here are some ideas to get you started:
+🚀 Projects
+🔹Task Manager Web App
+  Manage daily tasks with deadlines
+  Built using HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹Resume Analyzer (AI-based)
+  Analyze resumes and give suggestions
+  Built using Python
+
+🔹Foldacover Project
+  Innovative bike cover (fiber-reinforced) resistant up to 70 km/h
+  Focused on real-world problem solving
+
+📈 Currently Learning
+
+  Advanced Data Structures & Algorithms
+ Backend Development (Node.js / Python)
+ System Design Basics
+
+📊 GitHub Stats
+
+🌐 Connect With Me
+ 💼 LinkedIn: https://www.linkedin.com/in/naitik-garg-b37934316
+ 🐦 Twitter: https://x.com/NaitikGarg60484
+ 📧 Email: [gargnaitik9149ji@gmail.com](mailto:gargnaitik9149ji@gmail.com)
+
+⭐ “Always learning, always building.”
